@@ -5,6 +5,12 @@ Students submits their lab practical work and put comments on any query as well 
 
 Contain question regarding PANDA and Data Visualization with SQLite and CSV file.
 
+## HOW TO SUBMIT YOUR WORK
+
+Create "Solution" folder 
+
+Add your .ipynb file on your "Solution" Folder. Give your file name as Solution-1, Solution-2, .... in your 
+
 ## SQLITE
 
 This folder contain 2 lab file "lab-1.md" and "lab-2.md". Apply your knowledge and create table with constraints, Add some records and perform CRUD opeartion.

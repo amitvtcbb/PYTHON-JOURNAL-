@@ -17,4 +17,6 @@ First lab "Lab-3" regarding create file using reader and writer object.
 
 Second lab "Lab-4" regarding create .csv file using disctiory and list.
 
-Third lab "Lab-5" regarding Data visualization and Data Analysis using Python by create database in sqlite and import it into python csv file.
+Third lab "Lab-5" regarding Data Analysis using Python by create database in sqlite and import it into python csv file.
+
+

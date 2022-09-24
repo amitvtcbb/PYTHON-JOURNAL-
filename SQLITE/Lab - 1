@@ -1,15 +1,16 @@
 Create the below tables along with key constraints and Write an Insert script for
 insertion of rows with substitution variables and insert appropriate data.
 DEPARTMENT (dept_no, dept_name, location)
-| DEPT_NO |        DEPT_NAME        |    LOCATION     |
-:-------- | :---------------------: | :-------------: |
-| 1 | Sales | Delhi |
-| 2 | Production | Mumbai |
-| 3 | IT | Hyderabad |
-| 4 | Marketing |Ahmadabad |
-| 5 | Analysis | Surat |
-| 6 | BCA | MP |
-| 7 | BBA | Baroda |
+
+| DEPT_NO | DEPT_NAME  | LOCATION  |
+|---------|------------|-----------|
+| 1       | Sales      | Delhi     |
+| 2       | Production | Mumbai    |
+| 3       | IT         | Hyderabad |
+| 4       | Marketing  | Ahmadabad |
+| 5       | Analysis   | Surat     |
+| 6       | BCA        | MP        |
+| 7       | BBA        | Baroda    |
 
 EMPLOYEE (emp_id, emp_name, gender, dept_no, address, designation, salary,
 experience, email)
